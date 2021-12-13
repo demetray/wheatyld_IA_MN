@@ -9,8 +9,6 @@ wheat_bydistrict: gro-intelligence annual wheat yield data by district, contiguo
 
 ylds_ia_mn.ipynb: read in lat/lon coordinates for counties in MN and IA, and store lat/lon columns in wheat yields dataframe
 
-wheatf_mn_ia.xlsx: wheat yields in IA and MN with corresponding lat/lon coords stored in columns
-
 
 
 # Pre-processing ERA5 data
@@ -55,7 +53,7 @@ era5_preprocessed
     monthly_uv_min_anom.xlsx
     monthly_rh_mean.xlsx
     monthly_rh_mean_anom.xlsx
-    
+
 wheatf_mn_ia.xlsx
 
 
