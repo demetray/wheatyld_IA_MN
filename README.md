@@ -18,6 +18,7 @@ wheatf_mn_ia.xlsx: wheat yields in IA and MN with corresponding lat/lon coords s
 *Note: all files beginning with “extract” require ERA5 data files in format, netCDF4. I accessed these through Princeton University’s tigress database on the tiger cpu. These files are very large, so I deleted each one after extraction to make space for the other data. So, I have not redownloaded them to upload them here. 
 
 extract_era5
+
     extract_mean_precip.ipynb: extract monthly mean total precipitation rate at year/lat/lon of wheat yield data for each month
 
     extract_rh.ipynb: extract monthly mean relative humidity at year/lat/lon of wheat yield data for each month
@@ -37,6 +38,7 @@ extract_era5
 # All pre-processed data
 
 era5_preprocessed: 
+
     monthly_avg_temp.xlsx
     monthly_max_t2m.xlsx
     monthly_min_t2m.xlsx
