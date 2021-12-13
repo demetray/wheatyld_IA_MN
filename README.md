@@ -5,7 +5,7 @@ The files in this repository are used to develop a wheat yield model for Minneso
 
 # Pre-processing annual wheat yield data
 
-wheat_bydistrict: gro-intelligence annual wheat yield data by district, contiguous US (Sheet 1), lat/lon coordinates for counties in MN and IA (Sheet 6 and 7), yields in MN and IA (sheet 3). 
+wheat_bydistrict.xlsx: gro-intelligence annual wheat yield data by district, contiguous US (Sheet 1), lat/lon coordinates for counties in MN and IA (Sheet 6 and 7), yields in MN and IA (sheet 3). 
 
 ylds_ia_mn.ipynb: read in lat/lon coordinates for counties in MN and IA, and store lat/lon columns in wheat yields dataframe
 
