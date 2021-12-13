@@ -15,7 +15,7 @@ wheatf_mn_ia.xlsx: wheat yields in IA and MN with corresponding lat/lon coords s
 
 # Pre-processing ERA5 data
 
-*Note: all files beginning with “extract” require ERA5 data files in format, netCDF4. I accessed these through Princeton University’s tigress database on the tiger cpu. These files are very large, so I deleted each one after extraction to make space for the other data. So, I have not redownloaded them to upload them here. 
+*Note: all files beginning with “extract” require ERA5 data files in netCDF4 format. I accessed these through Princeton University’s tigress database on the tiger cpu. These files are very large, so I deleted each one after extraction to make space for the other data. So, I have not redownloaded them to upload them here. 
 
 extract_era5
 
@@ -37,7 +37,7 @@ extract_era5
 
 # All pre-processed data
 
-era5_preprocessed: 
+era5_preprocessed
 
     monthly_avg_temp.xlsx
     monthly_max_t2m.xlsx
@@ -56,7 +56,7 @@ era5_preprocessed:
     monthly_rh_mean.xlsx
     monthly_rh_mean_anom.xlsx
     
-wheatf_mn_ia.xlsx: preprocessed annual wheat yield data
+wheatf_mn_ia.xlsx
 
 
 
