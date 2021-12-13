@@ -15,7 +15,7 @@ ylds_ia_mn.ipynb: read in lat/lon coordinates for counties in MN and IA, and sto
 
 # Pre-processing ERA5 data
 
-*Note: all files beginning with “extract” require ERA5 data files in netCDF4 format. I accessed these through Princeton University’s tigress database on the tiger cpu. These files are very large, so I deleted each one after extraction to make space for the other data. So, I have not redownloaded them to upload them here. 
+Note: all files beginning with “extract” require ERA5 data files in netCDF4 format. I accessed these through Princeton University’s tigress database on the tiger cpu. These files are very large, so I deleted each one after extraction to make space for the other data. So, I have not redownloaded them to upload them here. 
 
 extract_era5
 
