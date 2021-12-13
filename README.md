@@ -2,7 +2,7 @@
 
 SML310 Final Project: comparison of 6 different regression models for predicting wheat yield in Iowa and Minnesota
 
-The files in this repository are used to develop a wheat yield model for Minnesota and Iowa based on meteorological parameters from the ERA5 dataset. Annual wheat yield data is taken from gro-intelligence. 
+The files in this repository are used to develop a wheat yield model for Minnesota and Iowa based on meteorological parameters from the ERA5 dataset. Annual wheat yield data is taken from gro-intelligence.
 
 
 # Pre-processing annual wheat yield data
@@ -67,6 +67,8 @@ eda.ipynb: plots of yield vs each feature
 
 
 # Narrowed down features for model input
+
+The files here contain 62 features, narrowed down from the original 162, based on inspection of yield vs feature plots in the exploratory data analysis.
 
 finalfeat.xlsx
 
