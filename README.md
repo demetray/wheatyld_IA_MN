@@ -92,5 +92,5 @@ Final_Report_Appendix.pdf: appendix associated with final report
 
 If you have found this software or report helpful, please cite as follows:
 
-Yancopoulos, D. (2021). *A Comparison of Several Multivariate Linear and Polynomial Regressions for Modeling Wheat Yield in Minnesota and Iowa*. Unpublished research. Princeton University Statistics and Machine Learning Department. https://github.com/demetray/wheatyld_IA_MN
+Yancopoulos, D.A. (2021) *A Comparison of Several Multivariate Linear and Polynomial Regressions for Modeling Wheat Yield in Minnesota and Iowa*. Unpublished research. Princeton University Statistics and Machine Learning Department. https://github.com/demetray/wheatyld_IA_MN
 
