@@ -81,3 +81,10 @@ finalfeat_index.xlsx
 yld_model.ipynb: script for comparison of 6 different regressions for predicting wheat yield
 
 
+
+# Final Report
+
+Final_Report.pdf: report submitted for completion of SML310: Research Projects in Data Science (Princeton University, Fall 2021) course requirements
+
+Final_Report_Appendix.pdf: appendix associated with final report
+
