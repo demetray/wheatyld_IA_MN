@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you have found this software or report helpful, please cite the work as below."
+authors:
+  - family-names: Yancopoulos
+  given-names: Demetra
+  orcid: "https://orcid.org/0000-0002-5538-2478"
+  title: "A Comparison of Several Multivariate Linear and Polynomial Regressions for Modeling Wheat Yield in Minnesota and Iowa"
+  date-released: 2021-12-10
+  url: "https://github.com/demetray/wheatyld_IA_MN"
+  
+  preferred-citation:
+    type: unpublished
+    title: A Comparison of Several Multivariate Linear and Polynomial Regressions for Modeling Wheat Yield in Minnesota and Iowa
+    authors:
+    - family-names: Yancopoulos
+    - given-names: Demetra
+    year: 2021
+    month: 12
+    institution: Princeton University
+    address: Statistics and Machine Learning Department, Princeton, NJ
+    notes: Internal Report (UNPUBLISHED)
+    url: https://github.com/demetray/wheatyld_IA_MN
+    
+  
