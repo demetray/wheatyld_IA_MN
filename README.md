@@ -88,3 +88,9 @@ Final_Report.pdf: report submitted for completion of SML310: Research Projects i
 
 Final_Report_Appendix.pdf: appendix associated with final report
 
+# CITATION
+
+If you have found this software or report helpful, please cite as follows:
+
+Yancopoulos, D. (2021). *A Comparison of Several Multivariate Linear and Polynomial Regressions for Modeling Wheat Yield in Minnesota and Iowa*. Unpublished research. Princeton University Statistics and Machine Learning Department. https://github.com/demetray/wheatyld_IA_MN
+
